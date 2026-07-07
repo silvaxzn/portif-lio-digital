@@ -265,6 +265,7 @@ flex-direction: column;
     padding-top: 50px;
     position: relative;
     width: 100%;
+    margin-top: 50px;
 }
 
 
@@ -410,4 +411,52 @@ flex-direction: column;
         left: 30%;
         width: 40%;
     }
+}
+
+.form{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border: 50px;
+    
+}
+.botao{
+    margin: 20px;
+}
+
+.usuario{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.name2{
+    padding: 5px;
+    border-radius: 7px;
+}
+
+.email{
+    padding: 5px;
+    border-radius: 7px;
+}
+
+.password{
+    padding: 5px;
+    border-radius: 7px;
+}
+
+.curso{
+    padding: 5px;
+    border-radius: 7px;
+}
+
+.sobre{
+    padding: 5px;
+    border-radius: 7px;
+}
+.sobre2{
+    padding: 5px;
+    border-radius: 7px;
+    color: #000000;
 }
